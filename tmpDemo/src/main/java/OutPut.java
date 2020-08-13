@@ -5,8 +5,6 @@ import java.util.List;
 import java.util.Map;
 
 public class OutPut {
-    Map<Integer,char []> map=new HashMap();
-
     public List<List<String>> init(int arr[]){
             List<List<String>> list = new ArrayList<List<String>>();
             List<String> listSub2 = new ArrayList<String>();
